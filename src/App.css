@@ -1,0 +1,14 @@
+
+.image {
+  background-image: url("/images/bg-image.jpg");
+  height: 100vh;
+ background-color: black;
+}
+
+.image img{
+  width: 300px;
+
+  padding: 20px;
+
+}
+
